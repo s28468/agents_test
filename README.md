@@ -17,7 +17,7 @@ we must run the model in cmd so that it is local on the computer. without this .
 in my case, I see the OLLAMA icon on the bottom right as proof that the model exists.
 
 ```angular2html
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 i use Python 3.12.6
 
