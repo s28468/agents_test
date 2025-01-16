@@ -19,6 +19,7 @@ in my case, I see the OLLAMA icon on the bottom right as proof that the model ex
 ```angular2html
 pip install requirements.txt
 ```
+i use Python 3.12.6
 
 then just go to any of the tests and run it
 
